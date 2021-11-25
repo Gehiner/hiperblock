@@ -1,3 +1,8 @@
 h1{
     color: aqua;
+    border: crimson;
+}
+
+body, head{
+    background-color: cyan;
 }
