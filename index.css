@@ -1,3 +1,13 @@
 h1{
     color: aqua;
+    margin: auto;
+}
+h3{
+    color: brown;
+    margin: auto;
+}
+p{
+    color: coral;
+    margin: auto;
+    border: crimson;
 }
