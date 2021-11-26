@@ -16,3 +16,5 @@ Consclusion
 Estamos generando algo que no sabemos.
 
 No sabemos si funcione 
+
+Estamos aprendiendo git y github 
