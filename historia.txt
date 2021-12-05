@@ -23,3 +23,6 @@ Estamos aprendiendo git y github
 Ahora Ferley quiere Escribir su propia Historia en este documento
 
 Ahora FerletSR esta colaborando en este proyecto Open Source
+
+
+Nuevos cambios, rebase
